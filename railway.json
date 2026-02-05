@@ -6,7 +6,6 @@
   "deploy": {
     "startCommand": "python bot.py",
     "restartPolicyType": "ON_FAILURE",
-    "sleepApplication": false,
-    "numReplicas": 1
+    "sleepApplication": false
   }
 }
